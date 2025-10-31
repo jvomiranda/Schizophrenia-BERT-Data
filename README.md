@@ -5,5 +5,5 @@ Repository accompanying the study on linguistic characterization of schizophreni
 
 ## Model Fine-Tuning Files
 
-The fine-tuning files and model checkpoints used in this project are available on [Hugging Face]([https://huggingface.co/XX/ASDAS](https://huggingface.co/jvomiranda/Schizophrenia_Manually_Curated_31k).  
+The fine-tuning files and model checkpoints used in this project are available on [Hugging Face](https://huggingface.co/jvomiranda/Schizophrenia_Manually_Curated_31k).  
 You can access them there to reproduce results, continue training, or use the model directly through the Hugging Face interface.
